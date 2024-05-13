@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: #E9ECEF;
+}
+
+ul{
+    list-style-position: inside;
+    list-style-type: none;
+}
+
+h1{
+    ;
+}
+
+h2{
+    color: purple;
+}
+
+h3{
+    color: orange;
+}
+
+
+.sola-yasla{
+    text-align: left;
+}
